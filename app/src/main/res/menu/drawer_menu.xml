@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Trang chủ"
+        android:icon="@drawable/home" />
+
+    <item android:id="@+id/nav_province"
+        android:title="Ds Tỉnh"
+        android:icon="@drawable/province" />
+
+    <item android:id="@+id/nav_dish"
+        android:title="Món ăn"
+        android:icon="@drawable/dish" />
+
+    <item android:id="@+id/nav_block"
+        android:title="Bài đăng"
+        android:icon="@drawable/block" />
+
+    <item android:id="@+id/nav_review"
+        android:title="Đánh giá"
+        android:icon="@drawable/review" />
+
+    <item android:id="@+id/nav_user"
+        android:title="Người "
+        android:icon="@drawable/usernew" />
+
+    <item android:id="@+id/nav_exit"
+        android:title="Đăng xuất"
+        android:icon="@drawable/exit" />
+</menu>

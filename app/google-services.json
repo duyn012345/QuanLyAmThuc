@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795980443548",
+    "firebase_url": "https://quanlyamthuc-tpmd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quanlyamthuc-tpmd",
+    "storage_bucket": "quanlyamthuc-tpmd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795980443548:android:89064eb6af925495cfa259",
+        "android_client_info": {
+          "package_name": "com.example.quanlyamthuc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795980443548-5e7qugm136dgiftcgasfbuks1haqavej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quanlyamthuc",
+            "certificate_hash": "dba686dd9d7d9c913f558a17dcd63bb83f72209b"
+          }
+        },
+        {
+          "client_id": "795980443548-v63ssdqukucocko7791o2hub0vlmtsvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZE5cpFh4eGDVwFTCvJE1bgp2H2Q657Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795980443548-v63ssdqukucocko7791o2hub0vlmtsvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
